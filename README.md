@@ -54,6 +54,13 @@ medical-x-monitor/
 | `high-priority`  | Requires immediate attention       | `#B60205`        |
 | `archive`        | Ready for weekly digest            | `#C5DEF5`        |
 
+## Contributing
+
+- Always add the original X post URL when logging a signal
+- Tag the relevant workstream
+- Keep summaries concise and actionable
+- Move processed signals to `/archives` periodically
+
 ---
 
 *Managed by the Office of the CEO – V5 Medical Company*
