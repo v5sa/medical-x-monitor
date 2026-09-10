@@ -1,5 +1,19 @@
-# Regulatory Workstream
+# Regulatory Intelligence
 
-Track regulatory developments relevant to V5 Medical (FDA, EMA, NMPA, local MOHs, standards bodies, etc.).
+Track FDA, CE, NMPA, and other regulatory body announcements relevant to V5 Medical products.
 
-Place important signals, summaries, and related documents here or link to Issues.
+## Focus Areas
+- FDA 510(k) clearances for syringes, sutures, packaging
+- EU MDR updates and guidance documents
+- NMPA (China) registration updates
+- Recall notices from competitors
+- Regulatory pathway changes
+
+## What to Log
+- New competitor clearances (especially syringes, sutures)
+- Regulatory guidance affecting our product categories
+- Recall notices (learn from others' issues)
+- Regulatory pathway changes in target markets (Turkey, Philippines, Middle East, LATAM)
+
+---
+*Owner: V5 Medical Regulatory Team*
