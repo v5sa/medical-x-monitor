@@ -12,6 +12,7 @@ This repository serves as the central hub for:
 
 ## Repository Structure
 
+```
 medical-x-monitor/
 ├── README.md
 ├── docs/
@@ -31,6 +32,7 @@ medical-x-monitor/
 │   ├── issue-template-signal.md
 │   └── weekly-digest.md
 └── scripts/
+```
 
 ## Getting Started
 
