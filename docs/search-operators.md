@@ -13,6 +13,9 @@ Copy-paste these into X search (or the X API) and refine as needed.
 ### Medical Packaging
 ("medical packaging" OR "sterilization pouch" OR "blister pack" OR "thermoformed tray" OR "peel pouch") (medical device OR sterile)
 
+### IVD Consumables
+("pipette tip" OR "sample cup" OR "transport media" OR "viral transport" OR "PCR tube") (manufacturer OR supplier)
+
 ## Regulatory
 
 ### FDA & US Market
@@ -38,7 +41,7 @@ Copy-paste these into X search (or the X API) and refine as needed.
 ## Regional Markets
 
 ### Turkey
-(Turkey OR Turkish) (medical device OR syringe OR suture) (import OR distributor OR hospital)
+(Turkey OR Turkish) (medical device OR syringe OR suture) (import OR distributor OR hospital OR MOH)
 
 ### Philippines
 (Philippines OR Filipino) (medical device OR syringe OR suture) (import OR distributor OR DOH)
@@ -64,7 +67,7 @@ Copy-paste these into X search (or the X API) and refine as needed.
 ("clinical trial" OR "clinical evidence" OR "clinical study") (syringe OR suture OR "medical device") (safety OR efficacy OR outcomes)
 
 ## Trade Shows & Events
-(MEDICA OR "Arab Health" OR "CMEF" OR "MEDICA") (syringe OR suture OR "medical device") (exhibitor OR launch OR announcement)
+(MEDICA OR "Arab Health" OR "CMEF" OR MEDICA) (syringe OR suture OR "medical device") (exhibitor OR launch OR announcement)
 
 ## Tips
 - Use `from:username` to search only posts by a specific account
@@ -74,4 +77,4 @@ Copy-paste these into X search (or the X API) and refine as needed.
 - Combine operators: `(syringe OR needle) (China OR Jiangsu) min_faves:10`
 
 ---
-*Last updated: 2026-09-10*
+*Last updated: 2026-09-12*

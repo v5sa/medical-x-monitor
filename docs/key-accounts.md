@@ -9,6 +9,10 @@ Maintain and expand this list over time. Focus on high-signal accounts rather th
 - @WHO — World Health Organization
 - @NMPA_China — China National Medical Products Administration (if available)
 - @EU_Health — EU Health & Food Safety
+- @PhilippineFDA — Philippines FDA
+- @SFDA_SA — Saudi Food & Drug Authority
+- @COFEPRIS — Mexico health regulator
+- @ANVISA — Brazil health regulator (when available)
 
 ## Major Competitors (Syringes & Consumables)
 
@@ -42,19 +46,16 @@ Maintain and expand this list over time. Focus on high-signal accounts rather th
 - @MedTechOperator — MedTech industry insights
 - @MassDevice — Medical device news
 - @MedTechDive — MedTech industry analysis
+- @FierceMedDev — Fierce Medical Devices
 
 ## Conferences & Media
 - @MEDICA_Fair — MEDICA trade fair (Düsseldorf)
 - @ArabHealth — Arab Health (Dubai)
 - @RSNA — Radiological Society of North America
-- @FierceMedDev — Fierce Medical Devices
-- @MassDevice — MassDevice.com
+- @CMEF_China — China International Medical Equipment Fair (when available)
 
 ## Regional Market Accounts
-- @PhilippineFDA — Philippines FDA
-- @SFDA_SA — Saudi Food & Drug Authority
-- @COFEPRIS — Mexico health regulator
-- @ANVISA — Brazil health regulator (if available)
+- Focus accounts for Turkey, Philippines, Middle East, Latin America, and Southeast Asia distributors / associations as they are identified.
 
 ## How to Use
 - Create X Lists for "Regulators", "Competitors", "KOLs", "News"
@@ -63,4 +64,4 @@ Maintain and expand this list over time. Focus on high-signal accounts rather th
 - Add new accounts as discovered through industry research
 
 ---
-*Last updated: 2026-09-10*
+*Last updated: 2026-09-12*
